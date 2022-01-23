@@ -1,0 +1,27 @@
+{
+	"name": "samgha_picture",
+	"title": "釋門集僧軌度圖經",
+	"rendClass": [
+		"kai",
+		"b",
+		"tag",
+		"l",
+		"by",
+		"bf",
+		"bz",
+		"ask",
+		"rep",
+		"si",
+		"sr",
+		"year",
+		"h0",
+		"book",
+		"sarticle",
+		"va",
+		"eng",
+		"talk"
+	],
+	"files": [
+		"samgha_picture.xml"
+	]
+}
